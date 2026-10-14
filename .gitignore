@@ -1,2 +1,11 @@
 AGENTS.md
 PROMPT.md
+__pycache__/
+*.py[cod]
+.venv/
+.hatch/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+dist/
+*.egg-info/

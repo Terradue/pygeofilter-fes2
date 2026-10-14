@@ -1,0 +1,306 @@
+{
+  "https://schemas.opengis.net/gml/3.2.1/gml.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/gml.xsd",
+    "sha256": "eb1e652fdc10fa70352c3fc554cd3bfacc5a863e964a4e64c76f25c762b80a3f"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/deprecatedTypes.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/deprecatedTypes.xsd",
+    "sha256": "cd02f14a1f83be529cb5d7ba8ce6a4089ebf26dcb3e287e4b81488cb6bf6dd5b"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/temporalReferenceSystems.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/temporalReferenceSystems.xsd",
+    "sha256": "f7671997af4fbd098ff53db1f025df3d1a678f707560a9bca83ca54d4ef61e7c"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/dictionary.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/dictionary.xsd",
+    "sha256": "fb5f633e6b441ed19bd17433e28efedfb7a335bdbde04b4e5383582a763beae5"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/gmlBase.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/gmlBase.xsd",
+    "sha256": "36825875b089ee8f69f42103d31ce52f6eb9489d2f40e11516495f7c152cc79d"
+  },
+  "https://www.w3.org/1999/xlink.xsd": {
+    "path": "www.w3.org/1999/xlink.xsd",
+    "sha256": "c3dbbaa28b884377ecd4a6c49d1f12566d8227cb0dce8ced10c0f66f8fa266e3"
+  },
+  "https://www.w3.org/2001/xml.xsd": {
+    "path": "www.w3.org/2001/xml.xsd",
+    "sha256": "61960fb3131e38022caad5360e2f33a3382578ab3c80cd58bd74320ede61b20c"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/basicTypes.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/basicTypes.xsd",
+    "sha256": "2e37d858bd5be1307892add40826632e4e16d5c44b032ba668c510f09588da5c"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/temporalTopology.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/temporalTopology.xsd",
+    "sha256": "ee8fd1e816cb41746c16443e47a0206f71ab77a621d49778dc565a9d6eff4352"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/temporal.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/temporal.xsd",
+    "sha256": "e6336faf79732dd8cc79b4f18595a4ccf93ab9d7c55e9f6517b79f4f44572fdd"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/observation.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/observation.xsd",
+    "sha256": "514b7489b2aeaf58303e24c0180cba92654f2201e87a6aa7c2fe8e1c73ceff99"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/valueObjects.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/valueObjects.xsd",
+    "sha256": "ddf0c234b66363f596492f59b92e307d2d7d864a122c28abc32bcdf87ce7485e"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/geometryBasic0d1d.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/geometryBasic0d1d.xsd",
+    "sha256": "b1f9e4c1714546cd1df6f03f459926c3714f6b4346bba58de7950eddedcc7d6c"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/measures.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/measures.xsd",
+    "sha256": "3faae40533a200b6999278678ef43c90a508fd7f8ded474f50475b4c3f19f152"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/units.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/units.xsd",
+    "sha256": "b3e2b8f364b9b844dccc0d8314f9c6c952db5155bccfe7316a1742a63dcc29fe"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/direction.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/direction.xsd",
+    "sha256": "fed7bb5e0fcc13b78add0bdb4b603a278452b70617a207ee084d2427daa17011"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/feature.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/feature.xsd",
+    "sha256": "aa8434aa6b38fe00ab9dd1a1e84c9288b4828484c783c04c8caf4ea5650ecb07"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/geometryAggregates.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/geometryAggregates.xsd",
+    "sha256": "d1cb25b4e923d06c44d6930ced39848ea0e938e197f95a8794e73692d0ff425b"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/geometryPrimitives.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/geometryPrimitives.xsd",
+    "sha256": "ddde612ddaa13fe8313ac5e0d70090d52459c83777e394b3d3917a205469b2af"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/geometryBasic2d.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/geometryBasic2d.xsd",
+    "sha256": "2fc0914ecd7ca02d41ec090d8202e754d67e40890d8846382e7e25446bf4b181"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/coordinateReferenceSystems.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/coordinateReferenceSystems.xsd",
+    "sha256": "0b38a6d9a82b698307215be446cfbec18682f1edcdbdf531d0e9fadb88e3017e"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/coordinateOperations.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/coordinateOperations.xsd",
+    "sha256": "d9a96671453711b98301d8f796ba1bb47990b7ab4ea83e8a1803c27110bbc434"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gmd/gmd.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gmd/gmd.xsd",
+    "sha256": "62c01b7ac3a6d283a2ea4ac72891bc1b912ff43016367b8df30ec7a8dfa583b1"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gmd/metadataApplication.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gmd/metadataApplication.xsd",
+    "sha256": "215e4f0e39b73c98c30e2c799b3c47448b420b481bed91087f983faf42074b6c"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gmd/metadataEntity.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gmd/metadataEntity.xsd",
+    "sha256": "e780e56e534c58140df94625293f535827b966a662b01014802288c349f31a3a"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gmd/freeText.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gmd/freeText.xsd",
+    "sha256": "79fcacb8fe5d0000fce05bef5e6430c61af9c151edf50542de4f4d90f4d1d306"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gmd/identification.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gmd/identification.xsd",
+    "sha256": "a9cbc54f0774b804a7e49e0713502d49ed051e2ad43d138b7ba840b7868ea937"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gmd/maintenance.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gmd/maintenance.xsd",
+    "sha256": "49e16597d6ce1bf039db46ac6d4c0069b2c6297bfc8da3fdb28a4d2e717766f9"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gmd/citation.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gmd/citation.xsd",
+    "sha256": "dfdef7355c21e8780cb3d50b28dd6d4c556ef83a1082c3059fffe41e357ba97d"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gmd/referenceSystem.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gmd/referenceSystem.xsd",
+    "sha256": "320bf5301f0fc40fc028a5428133ee66ed2b5b99ea5b74544ebf0642a1083f06"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gmd/extent.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gmd/extent.xsd",
+    "sha256": "a1e35e7730774fd7c4229699ade5cd29a8449997452d6a017f8a797f2a0a8c41"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gsr/gsr.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gsr/gsr.xsd",
+    "sha256": "5066cfe4d0488b89cf7a15a990cd2e05f3dcdbb11c95df1ec73a1e714101161d"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gsr/spatialReferencing.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gsr/spatialReferencing.xsd",
+    "sha256": "19dcdbf1fcc296598dd5def55338bdf604e2ddd62358f7a3a9caa62bd7a6833b"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gco/gco.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gco/gco.xsd",
+    "sha256": "bc3ea300204f6b99e696976aeb32207d604295f8e4c1d397cf5bb7b9e59bdabf"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gco/basicTypes.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gco/basicTypes.xsd",
+    "sha256": "5ac7545eedc0ebea9ee2788197ffc54eb32797cfde015239f33400f8527ff7f4"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gco/gcoBase.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gco/gcoBase.xsd",
+    "sha256": "bc6ef613238a37d0cfcdcbb43df751de7c81ebe46e67b185bae477f530b3f9ab"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gts/gts.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gts/gts.xsd",
+    "sha256": "bef7c0ed6e63cd2be4b54defe994125783491a4a750c675cd28ca01382c9b273"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gts/temporalObjects.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gts/temporalObjects.xsd",
+    "sha256": "22d2c593d31cd6c91e245bebd44240bd89046cc45c8e7f3a79b22442d9ee2595"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gss/gss.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gss/gss.xsd",
+    "sha256": "1cb5492d7cb110ced0d46e8bc858dc3b340e1350b0b16f99772318c7df4d3906"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gss/geometry.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gss/geometry.xsd",
+    "sha256": "fabf3df4d5d7098944494e4932426e4bfd7d56d73ac535edfcf5ef67292ad767"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gmd/distribution.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gmd/distribution.xsd",
+    "sha256": "1759a0d820644e07ed442b8385a87585cf62c68a7a257dcff109fb469109bb28"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gmd/constraints.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gmd/constraints.xsd",
+    "sha256": "b1f9c2971bbd1bf641f23a82ec87c0728bc19446b86ad490b5d3e917b096193e"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gmd/dataQuality.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gmd/dataQuality.xsd",
+    "sha256": "a1c97293e7966bf67ad4635894a5479c3e3f7044ad6253d3e87b74b3c34739cb"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gmd/portrayalCatalogue.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gmd/portrayalCatalogue.xsd",
+    "sha256": "e8b1086c78ef4474be9091839d3fa9aee3d9481c465fe5aa4372e2e2d3c2090a"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gmd/applicationSchema.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gmd/applicationSchema.xsd",
+    "sha256": "bd5b9f294f42dbe0d78e7f760fae008fb061c8a23d6c45b34bef0bf1427b1ed5"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gmd/content.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gmd/content.xsd",
+    "sha256": "e2c31ad9e56c6682f137b200db430b11ea89ee667379615c6498c4267c129eda"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gmd/metadataExtension.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gmd/metadataExtension.xsd",
+    "sha256": "2a59d200fbd0cf1229f908fa5ddfee71c7b2be273d6f2d9402e386390e2d1012"
+  },
+  "https://schemas.opengis.net/iso/19139/20070417/gmd/spatialRepresentation.xsd": {
+    "path": "schemas.opengis.net/iso/19139/20070417/gmd/spatialRepresentation.xsd",
+    "sha256": "3e4d2886b7816e1bc67fa23d82201e473162c5110aa6e6bd34478ad606c0b73c"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/referenceSystems.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/referenceSystems.xsd",
+    "sha256": "5bbeb1210ead8b6fba6516c4a5b9e80c1b811b48ec9f3293bbaaa5346aeec0e8"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/datums.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/datums.xsd",
+    "sha256": "a5ac13d8015f8d9c0947e5ad614c482a0f2c632d168f87c631d953273bdeb30d"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/coordinateSystems.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/coordinateSystems.xsd",
+    "sha256": "50658a9b0cd0e8887dab3a54d0e66ea9d74e7737ac15b87fb3a88f6d578c884b"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/coverage.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/coverage.xsd",
+    "sha256": "8861ca287202f3da462b3d78c71065dc78b3d24ac37304297601bd6599e8362f"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/grids.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/grids.xsd",
+    "sha256": "c317678414da9a28e0be87bb1544b875875746bc219aa0b7f6c31f32efd0c5f0"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/topology.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/topology.xsd",
+    "sha256": "aa4e2db656a1dfad2fe50c23cccf5ab0f3bba5894087dca75e7bd25faf31ba12"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/geometryComplexes.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/geometryComplexes.xsd",
+    "sha256": "26e936aa53efe6e56bbcadd5528967c2b9ac2b08b869252703c757e7ffb9711c"
+  },
+  "https://schemas.opengis.net/gml/3.2.1/dynamicFeature.xsd": {
+    "path": "schemas.opengis.net/gml/3.2.1/dynamicFeature.xsd",
+    "sha256": "457e07361d175c8c344d20fbed203f051b07dc13f7c637576247872fcf294c43"
+  },
+  "https://schemas.opengis.net/filter/2.0/filterAll.xsd": {
+    "path": "schemas.opengis.net/filter/2.0/filterAll.xsd",
+    "sha256": "5a694ec51f5600afc7c71da73a96124ab2daef722d7f909d270d3f12712d1a06"
+  },
+  "https://schemas.opengis.net/filter/2.0/sort.xsd": {
+    "path": "schemas.opengis.net/filter/2.0/sort.xsd",
+    "sha256": "67ba33bc6ffc1abd574ae6a59d367ade59d4409fabec2c7c94acd31250b90121"
+  },
+  "https://schemas.opengis.net/filter/2.0/expr.xsd": {
+    "path": "schemas.opengis.net/filter/2.0/expr.xsd",
+    "sha256": "a4c2c45a1e582e92ff385861febc508bd6f9cc9b659243c590510b46496c8923"
+  },
+  "https://schemas.opengis.net/filter/2.0/query.xsd": {
+    "path": "schemas.opengis.net/filter/2.0/query.xsd",
+    "sha256": "3364709e26c60207ebece049589891b88248f246d97023e8ad3b392fd680f2e0"
+  },
+  "https://schemas.opengis.net/filter/2.0/filter.xsd": {
+    "path": "schemas.opengis.net/filter/2.0/filter.xsd",
+    "sha256": "d5b5324bd2f115b1c9c143b0cd2efbd7b90da4fb30ed0f66d6596f31b59eea6c"
+  },
+  "https://schemas.opengis.net/filter/2.0/filterCapabilities.xsd": {
+    "path": "schemas.opengis.net/filter/2.0/filterCapabilities.xsd",
+    "sha256": "f8ceda536b73621aed8551e5d72d3a464cc24afc1a80ae4d651452843bae036e"
+  },
+  "https://schemas.opengis.net/ows/1.1.0/owsAll.xsd": {
+    "path": "schemas.opengis.net/ows/1.1.0/owsAll.xsd",
+    "sha256": "bc42490028588c8a06f0161d58e7b76a5f65e7f7158135c44d05abc276f652a4"
+  },
+  "https://schemas.opengis.net/ows/1.1.0/owsInputOutputData.xsd": {
+    "path": "schemas.opengis.net/ows/1.1.0/owsInputOutputData.xsd",
+    "sha256": "9d6643616316b1363beb0a5665d1e7c99feb9695a6ec2806f3f5c92e64614f61"
+  },
+  "https://schemas.opengis.net/ows/1.1.0/owsManifest.xsd": {
+    "path": "schemas.opengis.net/ows/1.1.0/owsManifest.xsd",
+    "sha256": "9a5af36165b30648f307540af34fbc8dc2ba4e7aa19c005b599996b7499c71b2"
+  },
+  "https://schemas.opengis.net/ows/1.1.0/owsDataIdentification.xsd": {
+    "path": "schemas.opengis.net/ows/1.1.0/owsDataIdentification.xsd",
+    "sha256": "2fa9dc1e590d0ca5cb8785d7a0ca49208a046a8975bbad8a31682d85b97f1ca5"
+  },
+  "https://schemas.opengis.net/ows/1.1.0/ows19115subset.xsd": {
+    "path": "schemas.opengis.net/ows/1.1.0/ows19115subset.xsd",
+    "sha256": "6206c69d4bb8054a3e6bc6034a750724ca831ab47265d4e0772268d1f6b812b6"
+  },
+  "https://schemas.opengis.net/ows/1.1.0/owsCommon.xsd": {
+    "path": "schemas.opengis.net/ows/1.1.0/owsCommon.xsd",
+    "sha256": "4ee608b76124541ca4889ed144f4d5336e71039c8a5a09f7bf85bf6b20b4d961"
+  },
+  "https://schemas.opengis.net/ows/1.1.0/owsContents.xsd": {
+    "path": "schemas.opengis.net/ows/1.1.0/owsContents.xsd",
+    "sha256": "9d75088b0a7b1c180f929568407de22bd547a45ffb6435b788a26a513f185d73"
+  },
+  "https://schemas.opengis.net/ows/1.1.0/owsDomainType.xsd": {
+    "path": "schemas.opengis.net/ows/1.1.0/owsDomainType.xsd",
+    "sha256": "5e7fd5cb891b4be50a36126fa88472812ccc22065a253e81797c0076da6b167e"
+  },
+  "https://schemas.opengis.net/ows/1.1.0/owsExceptionReport.xsd": {
+    "path": "schemas.opengis.net/ows/1.1.0/owsExceptionReport.xsd",
+    "sha256": "c9474442c14443dd9d3d5bc83a45d00550b23ef1eeb5a61314f587e954206ff4"
+  },
+  "https://schemas.opengis.net/ows/1.1.0/owsGetResourceByID.xsd": {
+    "path": "schemas.opengis.net/ows/1.1.0/owsGetResourceByID.xsd",
+    "sha256": "c94dea5844e58a106cf532d8129ce8baac4be2d0d78dd0af6e5a60046bca77fe"
+  },
+  "https://schemas.opengis.net/ows/1.1.0/owsGetCapabilities.xsd": {
+    "path": "schemas.opengis.net/ows/1.1.0/owsGetCapabilities.xsd",
+    "sha256": "7d3247ddd55d3efe4b5a3289ea765d26ece6cbd3c463aab6cc92f54bc46e7842"
+  },
+  "https://schemas.opengis.net/ows/1.1.0/owsOperationsMetadata.xsd": {
+    "path": "schemas.opengis.net/ows/1.1.0/owsOperationsMetadata.xsd",
+    "sha256": "becab116c450d431708c64f9d82f14a7dcf04a15ea68a13372c8ac4d4a6f2f53"
+  },
+  "https://schemas.opengis.net/ows/1.1.0/owsServiceProvider.xsd": {
+    "path": "schemas.opengis.net/ows/1.1.0/owsServiceProvider.xsd",
+    "sha256": "8451397179749611d404bde91e92afe784b44e0ae959aa8d63fed552b1c8f228"
+  },
+  "https://schemas.opengis.net/ows/1.1.0/owsServiceIdentification.xsd": {
+    "path": "schemas.opengis.net/ows/1.1.0/owsServiceIdentification.xsd",
+    "sha256": "0e27a60aad34b73fdd1d838e45b394640169cf5dba5cd2436f6a1382baf83bc8"
+  }
+}
